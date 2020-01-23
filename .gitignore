@@ -4,6 +4,7 @@ output/*.csv
 output/Dash*
 venv
 *.cmd
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
