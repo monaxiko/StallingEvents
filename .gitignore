@@ -1,3 +1,10 @@
+inputs
+output/*.png
+output/*.csv
+output/Dash*
+venv
+*.cmd
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
